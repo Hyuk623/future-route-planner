@@ -1,0 +1,25 @@
+{
+  "feature_cols": [
+    "base_duration",
+    "distance",
+    "precip_prob",
+    "is_rain",
+    "is_heavy_rain",
+    "day_of_week",
+    "is_weekend",
+    "is_friday",
+    "hour",
+    "is_morning_rush",
+    "is_evening_rush",
+    "is_late_night",
+    "is_holiday",
+    "is_major_holiday",
+    "is_pre_holiday",
+    "is_post_holiday",
+    "is_bridge_day",
+    "is_summer_vacation",
+    "is_spring_blossom",
+    "is_autumn_foliage",
+    "is_year_end"
+  ]
+}
